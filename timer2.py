@@ -4,6 +4,7 @@ import curses
 import threading
 import json
 
+
 CH = ''
 lock = threading.Lock()
 
