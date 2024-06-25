@@ -1,2 +1,3 @@
 workouts/*
 venv/*
+.gitignore
